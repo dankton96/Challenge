@@ -8,5 +8,5 @@ public class Imagens
         String fonte;
         String legenda;
         String url;
-        ImageView Show;
+        public ImageView Show;
     }
